@@ -1,0 +1,26 @@
+{
+  "name": "the-automated-graphic-designer",
+  "version": "1.0.0",
+  "description": "This is an automated graphic designer, capible of making basic graphics to suit your needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acid0000/The-Automated-Graphic-Designer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acid0000/The-Automated-Graphic-Designer/issues"
+  },
+  "homepage": "https://github.com/Acid0000/The-Automated-Graphic-Designer#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
